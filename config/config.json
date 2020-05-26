@@ -1,9 +1,9 @@
 {
     "test": {
-      "username": "newuser",
-      "password": "eblan1",
-      "database": "burgers",
-      "host": "CANMISBOUILOD19",
+      "username": "t7iklwa5400t9wf9",
+      "password": "x8kv86xv9e8qz13x",
+      "database": "nszhaneae6whufy5",
+      "host": "tj5iv8piornf713y.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
       "port": 3306,
       "dialect": "mysql"
     }
